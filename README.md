@@ -6,3 +6,7 @@ Clerk's main job is to be a minimilistic framework for letting you get down and 
 ```bash
 git clone https://github.com/radroof22/clerk.git
  ```
+
+Create a file (in this case, we will call it ``` server.py```)
+
+
