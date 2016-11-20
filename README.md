@@ -9,4 +9,10 @@ git clone https://github.com/radroof22/clerk.git
 
 Create a file (in this case, we will call it ``` server.py```)
 
+Write Into It,
+```python
+from Clerk import *
+#import clerk modules
+```
+
 
